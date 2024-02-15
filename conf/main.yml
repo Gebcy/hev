@@ -18,9 +18,9 @@ tunnel:
 
 socks5:
   # Socks5 server port
-  port: 1080
+  port: 10808
   # Socks5 server address (ipv4/ipv6)
-  address: 127.0.0.1
+  address: 192.168.8.2
   # Socks5 UDP relay mode (tcp|udp)
   udp: 'udp'
   # Socks5 handshake using pipeline mode
